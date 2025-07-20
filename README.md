@@ -33,6 +33,10 @@ The dashboard suite includes **1 Landing Page** and **5 Detailed Dashboards**, e
 - Demographic and geographic insights
 - Data storytelling through visuals
 ---
+## 🔗 Live Power BI Report
+You can explore the dashboard online here:
+👉 (https://app.powerbi.com/view?r=eyJrIjoiYmRjZDIwOTgtOTljZC00YWIzLWI4YjYtMTAxODBiYTJkMDE4IiwidCI6ImIxN2MwZGJjLWZkMDktNDQxOS04NWZmLWIzYzJjMGU4ZDYzMiJ9)
+---
 ## 📌 Note
 All visualizations are based on publicly available election data from verified sources. This project is created for **educational and analytical purposes only**.
 ---
